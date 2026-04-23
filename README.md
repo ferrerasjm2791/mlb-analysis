@@ -1,5 +1,9 @@
 # MLB Historical Analysis: Team Dominance, Championships, and the Impact of the Draft
 
+![MLB Analysis](images/top_10_win_percentage.png)
+
+**End-to-end data analysis of MLB historical performance using Python (Pandas, NumPy, Matplotlib), focused on team dominance, championship distribution, and the impact of the MLB Draft on competitive balance.**
+
 ## Overview
 This project analyzes more than a century of Major League Baseball data to explore long-term team dominance, championship outcomes, and the impact of the MLB Draft on competitive balance.
 
